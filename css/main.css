@@ -53,7 +53,7 @@ span:lang(cn) {
 
 .name {
   font-weight: bold;
-  font-size: 1.0625em;
+  font-size: 1.5em;
 }
 
 #organizer-list .email {
@@ -137,6 +137,7 @@ span:lang(cn) {
 .speakers .talk {
   font-style: italic;
   font-weight: bold;
+  font-size: 1.5em;
 }
 
 .speakers .talk::before {
